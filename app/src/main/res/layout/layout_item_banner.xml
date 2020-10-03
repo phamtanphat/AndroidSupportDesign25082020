@@ -5,9 +5,8 @@
     android:layout_height="wrap_content"
     android:layout_gravity="center"
     android:layout_margin="5dp">
-
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imageViewBanner"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:src="@drawable/banner1"
